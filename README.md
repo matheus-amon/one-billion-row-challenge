@@ -7,7 +7,4 @@ Memória RAM: 16,0 GB
 - Resultados
   - Apenas Python: Não processou ❌ 
   - Python + Pandas: Não processou ❌
-  - Python + DuckDB:
-  - Python + Polars:
-  - Python + PySpark:
-  - Python + Dask:
+  - Python + DuckDB: Processou em 27 segundos ✅
